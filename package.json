@@ -1,0 +1,10 @@
+{
+  "name": "mime-db-to-kotlin",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mime-db": "~1.37.0"
+  }
+}
